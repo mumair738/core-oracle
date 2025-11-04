@@ -213,7 +213,7 @@ CoreOracle/
 - Season-long predictions
 
 ### 💼 Finance
-- Stock market movements
+- market movements
 - Economic indicators
 - Interest rate changes
 - Company earnings
